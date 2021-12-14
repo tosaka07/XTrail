@@ -47,6 +47,11 @@ playground.xcworkspace
 # .swiftpm
 
 .build/
+.DS_Store
+/Packages
+*.xcodeproj
+.swiftpm
+.*.sw?
 
 # CocoaPods
 #
@@ -88,3 +93,4 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+

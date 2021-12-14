@@ -1,0 +1,3 @@
+import XTrailCLI
+
+XTrailCommand.main()

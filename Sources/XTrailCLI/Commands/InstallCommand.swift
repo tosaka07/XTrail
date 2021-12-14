@@ -35,7 +35,7 @@ struct InstallCommand: ParsableCommand {
   }
 
   func run() throws {
-    let input = Path(templateDirectory).normalize()
+    let input = Path(templateDirectory).normalize().absolute()
     let templateDirectory = Constants.templateDirectory
 
     print("🥾 Install the Xcode template...\n")

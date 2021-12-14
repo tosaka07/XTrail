@@ -32,7 +32,7 @@ Use the `uninstall` command to remove the template from the template directory. 
 xtrail list
 ```
 
-### List
+Use the list command to display the list of installed templates.
 
 ## Installation
 

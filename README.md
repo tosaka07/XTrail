@@ -1,4 +1,4 @@
-# XTrail
+# 🥾 XTrail
 
 A command line tool to easily install and browse Xcode templates.
 
